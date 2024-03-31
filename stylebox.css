@@ -1,0 +1,75 @@
+body{
+    background-image: url("photo_2024-03-06_00-33-40.jpg");
+   
+    background-position: cover;
+}
+.h{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    margin-top: 1%;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-bottom: 0%;
+    padding-bottom: 1%;
+    border: solid 6px ;
+    font-weight: bold;
+    border-color: rgb(100, 99, 98);
+    backdrop-filter: blur(5px);
+   
+     border-radius: 5px 5px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    outline: 1px solid;
+    outline-offset: 2px ;
+    outline-color: rgb(51, 8, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div{
+    text-align: center;
+    margin: 17px ;
+    border: solid 2px ;
+    padding: 5px;
+    border-radius: 3px 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.div:hover{
+    color: rgb(78, 73, 63);
+}
+
+.inpu{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 5% 10% ;
+    background-color: rgb(46, 115, 243);
+    border-radius: 15px;
+    color: white
+    
+}
+.inpu:hover{
+    color: black;
+}
+.inpt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 5% 10% ;
+    background-color: rgb(44, 48, 54);
+    border-radius: 5px;
+    color: white
+}
+.inpt:hover{
+    color: rgb(240, 14, 14);
+}
+inpu:visited{
+    color:brown;
+}
+inpu:active{
+    color: brown;
+}
